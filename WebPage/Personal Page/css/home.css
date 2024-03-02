@@ -1,0 +1,40 @@
+.hero-container {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-image: linear-gradient( rgba(140, 85, 171, 0.391), #633c8949),
+  url(../images/4.fundo-de-formas-abstratas-rosa-aquarela.jpg);
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.titles {
+  width: 100%;
+  padding: 5rem;
+  color: var(--color-light);
+  text-align: center;
+  /* text-shadow: 2px 2px 20px #370a5a; */
+}
+
+.titles h1 {
+  color: var(--color-light);
+  text-shadow: 2px 2px 2px var(--color-light);
+  font-size: 6em;
+  font-weight: 900;
+  font-family: "Zen Loop", cursive;
+}
+
+.titles h3 {
+  font-size: 2em;
+  /* padding: 32px; */
+  font-weight: 400;
+  color: var(--color-light);
+}
+
+/*.image-container {
+  width: 40%;
+} */
+
