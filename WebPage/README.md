@@ -1,2 +1,2 @@
-# cursos-alura
-Imersões e cursos da aluna de front-end
+# Página Pessoal e Portfólio
+Breve apresentação pessoal e profissional com projetos e criações já realizadas.
